@@ -1,0 +1,14 @@
+img{float:right;
+    width:200px;
+    border-color:white;
+    border-width: 8px;
+    border-style:solid;
+    border-radius: 20px;
+  height: 300px;}
+
+body{background-color: black;}
+
+p{color:white;
+    font-family:sans-serif;}
+    h1{color: white; font-family: sans-serif;}
+   h3{color: white;  font-family: sans-serif;}

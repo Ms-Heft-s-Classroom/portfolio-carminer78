@@ -1,0 +1,42 @@
+body{background-color:rgb(160, 11, 11);}
+
+p{color:white;
+font-family:sans-serif;}
+
+h1{color: white;
+font-family: sans-serif;}
+
+h2{color: white;
+  font-family: sans-serif;}
+
+h3{color: white;
+font-family: sans-serif;
+  text-decoration-line:underline;}
+
+h4{color: white;
+  font-family: sans-serif;
+  text-decoration-line:underline;}
+
+ol{color: white;
+font-family: sans-serif;}
+
+
+img{float: inherit;
+  width:200px;
+  border-color:white;
+  border-width: 8px;
+  border-style:solid;
+  border-radius: 20px;
+height: 300px;}
+
+p2{color:white;
+  font-family: sans-serif;
+  text-decoration-line:underline;.}
+
+
+p1{ color: white;
+  font-style: italic;
+  text-decoration-line:underline;}
+  
+tille{color:white;
+  font-family: sans-serif;}
