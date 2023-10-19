@@ -1,4 +1,4 @@
-p1{font-family: sans-serif;
+p1{color:white;font-family: sans-serif;
 font-size: larger;}
 
 img{float:right;
@@ -9,19 +9,31 @@ img{float:right;
     border-radius: 20px;
   height: 300px;}
 
-  p{font-size: x-large;}
+  p{color:white;
+    font-size: x-large;}
 
-  dl{font-size: x-large;}
+  dl{color:white;
+    font-size: x-large;}
 
-  ol{font-size: x-large;}
+  ol{color:white;
+    font-size: x-large;}
 
-  ul{font-size: x-large;}
+  ul{color:white;
+    font-size: x-large;}
 
-  h3{font-size: x-large;}
+  h3{color:white;
+    font-size: x-large;}
   
-  h1{font-size: x-large;}
+  h1{color:white;
+    font-size: x-large;}
 
-  h4{font-size: x-large;}
+  h4{color:white;
+    font-size: x-large;}
 
- p2{font-style: italic;
+ p2{color:white;font-style: italic;
     text-decoration-line:underline;}
+ 
+ 
+    body{background-color:darkorchid;}
+  
+  a{color:white;}
