@@ -1,39 +1,39 @@
 p1{color:white;font-family: sans-serif;
-font-size: larger;}
-
-img{float:right;
-    width: 400px;px;
-    border-color:white;
-    border-width: 8px;
-    border-style:solid;
-    border-radius: 20px;
-  height: 300px;}
-
-  p{color:white;
-    font-size: x-large;}
-
-  dl{color:white;
-    font-size: x-large;}
-
-  ol{color:white;
-    font-size: x-large;}
-
-  ul{color:white;
-    font-size: x-large;}
-
-  h3{color:white;
-    font-size: x-large;}
-  
-  h1{color:white;
-    font-size: x-large;}
-
-  h4{color:white;
-    font-size: x-large;}
-
- p2{color:white;font-style: italic;
-    text-decoration-line:underline;}
- 
- 
-    body{background-color:darkorchid;}
-  
-  a{color:white;}
+    font-size: larger;}
+    
+    img{float:right;
+        width: 400px;
+        border-color:white;
+        border-width: 8px;
+        border-style:solid;
+        border-radius: 20px;
+      height: 300px;}
+    
+      p{color:white;
+        font-size: x-large;}
+    
+      dl{color:white;
+        font-size: x-large;}
+    
+      ol{color:white;
+        font-size: x-large;}
+    
+      ul{color:white;
+        font-size: x-large;}
+    
+      h3{color:white;
+        font-size: x-large;}
+      
+      h1{color:white;
+        font-size: x-large;}
+    
+      h4{color:white;
+        font-size: x-large;}
+    
+     p2{color:white;font-style: italic;
+        text-decoration-line:underline;}
+     
+     
+        body{background-color:darkorchid;}
+      
+      a{color:white;}

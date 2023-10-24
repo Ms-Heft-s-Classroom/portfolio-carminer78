@@ -1,3 +1,4 @@
+
 body{background-color:rgb(160, 11, 11);}
 
 p{color:white;
@@ -38,7 +39,7 @@ p1{ color: white;
   font-style: italic;
   text-decoration-line:underline;}
   
-tille{color:white;
+title{color:white;
   font-family: sans-serif;}
 
-  a{color:white;}
+  a{color: white;}
